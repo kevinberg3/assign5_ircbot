@@ -2,7 +2,7 @@ require "socket"
 
 class Connection
 
-	attr_accessor :output, :input
+	attr_reader :output, :input
 
 	server = "chat.freenode.net"
 	port = "6667"
