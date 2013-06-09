@@ -1,6 +1,5 @@
 class Cockneybot
 
-
 	def logic(input)
 
 		if input.include? "cockney"
@@ -8,8 +7,6 @@ class Cockneybot
 	 	end
 
 	end
-
-
 
 end
 

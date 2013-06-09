@@ -16,15 +16,16 @@ class Runner
 		input = irc.s.gets
 	  	puts input
 
+	  	# Creates a new instance of Cockneybot and sends it the input to be processed
 	  	logic = Cockneybot.new.logic(input)
-	  	irc.output(logic)
+
+	  	# Outputs Cockneybot's response
+	  	irc.output(logic) if logic != nil
 
 		end # End of loop
 
-
 	end
-
-
+	
 end
 
 Runner.run
