@@ -10,7 +10,7 @@ class Cockneybot
 		"eyes" => "minces", "eye" => "mince", "dollar" => "oxford", "dollars" => "oxfords", "stinks" => "pens",
 		"talking" => "rabbiting", "talk" => "rabbit", "fart" => "raspberry", "farted" => "raspberried",
 		"go" => "scarpa", "wife's" => "trouble's", "wife" => "trouble", "shirt" => "uncle", "shirts" => "uncles",
-		"coat" => "weasel", "coats" => "weasels", "starving" => "marvin", "socks" => "docks", "bottle" => "aristotle",
+		"coat" => "weasel", "coats" => "weasels", "starving" => "hank marvin", "socks" => "docks", "bottle" => "aristotle",
 		"lodger" => "Artful", "braces" => "ascots", "queen" => "baked bean", "queen's" => "baked bean's", 
 		"walk" => "ball", "walking" => "balling", "cash" => "bangers", "judge" => "barnaby", "an argument" => "a barney",
 		"trouble" => "barney", "face" => "boat", "faces" => "boats", "weed" => "bob", "dope" => "bob", "soap" => "bob",
