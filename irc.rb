@@ -24,6 +24,11 @@ class IRC
 		@s.puts "PRIVMSG #{@channel} :Type 'cockneybot:' followed by your word or sentence to have it translated into cockney rhyming slang!!!"
 	end
 
+	def greeting
+		@s.puts "PRIVMSG #{@channel} :Awright geezzaaa! Hello from Cockneybot. Sorted mate."
+		@s.puts "PRIVMSG #{@channel} :Type 'cockneybot:' followed by your word or sentence to have it translated into cockney rhyming slang!!!"
+	end
+
 	def output(message)
 		@s.puts "PRIVMSG #{@channel} :" + message.to_s
 	end
