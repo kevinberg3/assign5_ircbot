@@ -16,7 +16,7 @@ class Cockneybot
 	 	# Only process input that starts with cockneybot:
 	 	if input.downcase.start_with? ('cockneybot:')
 
-			# Removes 'cockneybot' from string and splits input into a multi string array
+			# Removes 'cockneybot' from string
 			input.slice!(/cockneybot:/i)
 
 			# Splits the input string into a multi-string array
