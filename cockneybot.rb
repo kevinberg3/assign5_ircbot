@@ -3,7 +3,20 @@ require_relative 'irc'
 class Cockneybot
 
 	def initialize
-		@slang = {"stairs" => "apples and pears", "telephone" => "dog and bone", "look" => "butcher's hook"}
+		@slang = {"stairs" => "apples", "telephone" => "dog and bone", "look" => "butchers",
+		"believe" => "adam and eve", "gravy" => "army", "phone" => "dog and bone", "legs" => "bacons",
+		"leg" => "bacon", "hair" => "barnet", "money" => "bees", "knees" => "biscuits", "balls" => "cobblers",
+		"head" => "loaf", "heads" => "loafs", "silly" => "daffy", "arse" => "Khyber", "ass" => "Khyber",
+		"eyes" => "minces", "eye" => "mince", "dollar" => "oxford", "dollars" => "oxfords", "stinks" => "pens",
+		"talking" => "rabbiting", "talk" => "rabbit", "fart" => "raspberry", "farted" => "raspberried",
+		"go" => "scarpa", "wife's" => "trouble's", "wife" => "trouble", "shirt" => "uncle", "shirts" => "uncles",
+		"coat" => "weasel", "coats" => "weasels", "starving" => "marvin", "socks" => "docks", "bottle" => "aristotle",
+		"lodger" => "Artful", "braces" => "ascots", "queen" => "baked bean", "queen's" => "baked bean's", 
+		"walk" => "ball", "walking" => "balling", "cash" => "bangers", "judge" => "barnaby", "an argument" => "a barney",
+		"trouble" => "barney", "face" => "boat", "faces" => "boats", "weed" => "bob", "dope" => "bob", "soap" => "bob",
+		"skint" = "boracic", "sneeze" => "bread and cheese", "sneezed" => "bread and cheesed", "daughter" => "brick",
+		"daughters" => "bricks", "tits" => "bristols", "titty" => "bristol", "tit" => "bristol", "boobs" => "bristols",
+		}
 	end
 
 	def logic(input)
