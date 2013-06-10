@@ -14,9 +14,14 @@ class Cockneybot
 		"lodger" => "Artful", "braces" => "ascots", "queen" => "baked bean", "queen's" => "baked bean's", 
 		"walk" => "ball", "walking" => "balling", "cash" => "bangers", "judge" => "barnaby", "an argument" => "a barney",
 		"trouble" => "barney", "face" => "boat", "faces" => "boats", "weed" => "bob", "dope" => "bob", "soap" => "bob",
-		"skint" = "boracic", "sneeze" => "bread and cheese", "sneezed" => "bread and cheesed", "daughter" => "brick",
+		"skint" => "boracic", "sneeze" => "bread and cheese", "sneezed" => "bread and cheesed", "daughter" => "brick",
 		"daughters" => "bricks", "tits" => "bristols", "titty" => "bristol", "tit" => "bristol", "boobs" => "bristols",
-		}
+		"dead" => "brown bread", "greek" => "bubble", "arm" => "chalk", "mate" => "china", "sun" => "currant",
+		"boots" => "daisies", "boot" => "daisy", "moan" => "darby", "word" => "dicky", "shoes" => "dinky doos", "skive" => "duck",
+		"rent" => "duke", "kid" => "dustbin", "nose" => "fireman's hose", "road" => "frog", "scotch" => "gold",
+		"cheque" => "gregory", "neck" => "gregory", "draught" => "george", "piss" => "gypsy", "pee" => "gypsy",
+		"car" => "jam", "dance" => "kick", "dancing" => "kicking", "fiver" => "lady", "windy" => "mork", "deaf" => "mutton",
+		"mouth" => "north and south", "tie" => "peckham", }
 	end
 
 	def logic(input)
