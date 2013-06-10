@@ -21,7 +21,11 @@ class Cockneybot
 		"rent" => "duke", "kid" => "dustbin", "nose" => "fireman's hose", "road" => "frog", "scotch" => "gold",
 		"cheque" => "gregory", "neck" => "gregory", "draught" => "george", "piss" => "gypsy", "pee" => "gypsy",
 		"car" => "jam", "dance" => "kick", "dancing" => "kicking", "fiver" => "lady", "windy" => "mork", "deaf" => "mutton",
-		"mouth" => "north and south", "tie" => "peckham", }
+		"mouth" => "north and south", "tie" => "peckham", "feet" => "plates", "crap" => "pony", "lie" => "porky", "lies" => "porkies",
+		"tea" => "rosie", "fork" => "roast pork", "pub" => "rub-a-dub", "curry" => "ruby", "goal" => "sausage roll", 
+		"cab" => "sherbert", "sister" => "skin", "pocket" => "sky rocket", "flying squad" => "sweeney", "wigs" => "syrups",
+		"wig" => "syrup", "thief" => "tea leaf", "shit" => "tom tit", "alone" => "todd", "sick" => "tom and dick", "window" => "tommy",
+		"gin" => "vera", "jewellery" => "tom foolery", "jewelry" => "tom foolery", "suit" => "whistle"}
 	end
 
 	def logic(input)
