@@ -9,7 +9,7 @@ class IRC
 		@port = "6667"
 		@nick = "CockneyBot"
 		@user = "CockneyBot"
-		@channel = "#bitmaker_james"
+		@channel = "#bitmaker"
 	end
 
 	def connect

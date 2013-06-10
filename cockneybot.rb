@@ -26,7 +26,7 @@ class Cockneybot
 		"cab" => "sherbert", "sister" => "skin", "pocket" => "sky rocket", "flying squad" => "sweeney", "wigs" => "syrups",
 		"wig" => "syrup", "thief" => "tea leaf", "shit" => "tom tit", "alone" => "todd", "sick" => "tom and dick", "window" => "tommy",
 		"gin" => "vera", "jewellery" => "tom foolery", "jewelry" => "tom foolery", "suit" => "whistle", "tired" => "cream crackered",
-		"knackered" => "cream crackered", "pinched" = "alf inched"}
+		"knackered" => "cream crackered", "pinched" => "alf inched"}
 	end
 
 	def logic(input)
